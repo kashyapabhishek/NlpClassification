@@ -1,0 +1,2 @@
+[ERROR] Test class, load_model , file must have 'read' and 'readline' attributes
+[ERROR] Test class, predict , 'NoneType' object has no attribute 'predict'

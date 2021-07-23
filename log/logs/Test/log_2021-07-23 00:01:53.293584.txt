@@ -1,0 +1,1 @@
+[ERROR] Test class, predict , 'NoneType' object has no attribute 'predict'

@@ -1,0 +1,8 @@
+[INFO] fill_null_valued start
+[INFO] create_clean_feature start
+[INFO] select_clean_data start
+[INFO] remove_extra_word_tokenize_and_lemmatize start
+[INFO] vectorizer start
+[INFO] train_test_split start
+[INFO] create_pipeline start
+[INFO] create_model start

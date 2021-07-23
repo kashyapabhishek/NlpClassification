@@ -1,0 +1,1 @@
+[ERROR] Test class, load_model , file must have 'read' and 'readline' attributes

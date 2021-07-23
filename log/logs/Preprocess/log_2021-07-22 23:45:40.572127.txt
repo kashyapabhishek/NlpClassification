@@ -1,0 +1,1 @@
+[ERROR] Preprocess class, select_clean_data , "['feature'] not in index"[ERROR] Preprocess class, remove_extra_word_tokenize_and_lemmatize , 'NoneType' object is not subscriptable
